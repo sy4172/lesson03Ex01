@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">lesson03Ex01</string>
+    <string name="clear">clear</string>
+    <string name="number_not_found">Number not found</string>
+    <string name="click_for_number">Click for number</string>
 </resources>
